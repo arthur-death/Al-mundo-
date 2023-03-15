@@ -1,0 +1,30 @@
+{
+    "name" :"Ola mundo",
+    "short_name":"Ola",
+    "start_url":".",
+    "display":"standalone",
+    "theme_color":"#ffffff",
+    "background_color":"#000000",
+    "background-color":"#000000",
+    "description":"Pagina de Hello Word!",
+    "icons":[
+        {
+            "src":"image/ola-mundo-128.png",
+            "sizes":"128x128",
+            "type":"image/png"
+        },{
+            "src":"image/ola-mundo-192.png",
+            "sizes":"192x192",
+            "type":"image/png",
+            "purpose":"any maskable"
+        },{
+            "src":"image/ola-mundo-256.png",
+            "sizes":"256x256",
+            "type":"image/png"
+        },{
+            "src":"image/ola-mundo-512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }],
+        "lang":"pt-br"
+}
